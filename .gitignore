@@ -1,0 +1,3 @@
+#this is a comment don't pick up anything that's a html file 
+*.html
+
